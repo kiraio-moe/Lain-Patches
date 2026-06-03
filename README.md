@@ -1,11 +1,17 @@
-# 👋🧩 Morphe Patches template
+<div align="center">
+    <img src="./patches-bundle.png" width="20%"/>
+    <h1>𝙻𝙰!𝙽 Patches</h1>
+    <b>Zenify your apps!</b>
+</div>
 
-Template repository for Morphe Patches.
+Morphe patches for apps that I personally use. Please be considerate when requesting a patch.
+I've limited knowledge on Android RE and making this patches on my free time.
 
-## ❓ About
-
-This is a template to create a new Morphe Patches repository.
-TODO: Update this about section with a brief introduction/summary about this repo and what it offers.
+<div align="center">
+    <a href="https://morphe.software/add-source?github=kiraio-moe/Lain-Patches">
+      <img src="./assets/add-to-morphe.svg" alt="Add to Morphe Manager"/>
+    </a>
+</div>
 
 ## 🩹 Patches list
 
@@ -27,7 +33,7 @@ TODO: Update this about section with a brief introduction/summary about this rep
 To start using this template, follow these steps:
 
 1. [Setup](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-development/README.md) your development environment including adding a GitHub PAT as described [here](https://github.com/MorpheApp/morphe-patcher/blob/main/docs/2_1_setup.md#-prepare-the-environment).
-2. [Create a new repository using this template](https://github.com/new?template_name=morphe-patches-template&template_owner=MorpheApp)
+2. [Create a new repository using this template](https://github.com/new?template_name=Lain-Patches&template_owner=MorpheApp)
 3. Set up the [build.gradle.kts](patches/build.gradle.kts) file (Specifically, the 
    [group of the project](patches/build.gradle.kts#L1), and the [About](patches/build.gradle.kts#L5-L11))
 4. Set up the [README.md](README.md) file[^1] (e.g, title, description, license, 
@@ -78,22 +84,11 @@ patches to Morphe (update the links below after creating your new patches repo):
      this readme of all developer instructions above. -->
 <!-- PATCHES_END -->
 
-#### How to use these patches
+## 📙 Contributing
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
-
-Or manually add this repository url as a patch source in Morphe: https://github.com/xyz-user/xyz-patches
-
-### 📙 Contributing
-
-Thank you for considering contributing to UserXYZ Morphe Patches.  
+Thank you for considering contributing to Lain Patches.  
 You can find the contribution guidelines [here](CONTRIBUTING.md).
-
-### 🛠️ Building
-
-To build UserXYZ Morphe Patches,
-you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
 
 ## 📜 License
 
-UserXYZ Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+𝙻𝙰!𝙽 Patches are licensed under the [GNU General Public License v3.0](LICENSE).
