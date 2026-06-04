@@ -46,14 +46,14 @@ jobs:
         run: npm install
 
       - name: Release
-        uses: cycjimmy/semantic-release-action@v5
+        uses: cycjimmy/semantic-release-action@v6
         id: release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Attest
         if: steps.release.outputs.new_release_published == 'true'
-        uses: actions/attest-build-provenance@v3
+        uses: actions/attest-build-provenance@v4
         with:
           subject-name: 'Morphe Patches ${{ steps.release.outputs.new_release_git_tag }}'
           subject-path: patches/build/libs/patches-*.mpp
