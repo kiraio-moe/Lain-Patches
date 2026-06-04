@@ -1,4 +1,4 @@
-group = "kiraio.morphe"
+group = "kiraio.lain"
 
 patches {
     about {
