@@ -12,6 +12,7 @@ jobs:
     name: Release
     permissions:
       contents: write
+      pull-requests: write
       packages: write
       id-token: write
       attestations: write
@@ -26,7 +27,7 @@ jobs:
         uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
-          java-version: '21'
+          java-version: '17'
 
       - name: Cache Gradle
         uses: burrunan/gradle-cache-action@v3

@@ -26,6 +26,7 @@ val disableAdsPatch = bytecodePatch(
     )
     execute {
         MainFragmentAdsFingerprint.method.returnEarly()
+        // Remove buy pro version menu item
         MainActivityMenuFingerprint.method.addInstructions(
             MainActivityMenuFingerprint.method.indexOfFirstInstructionReversedOrThrow(Opcode.IPUT_OBJECT) + 1,
             """
