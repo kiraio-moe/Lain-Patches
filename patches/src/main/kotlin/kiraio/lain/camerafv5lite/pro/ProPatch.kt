@@ -3,11 +3,13 @@ package kiraio.lain.camerafv5lite.pro
 import app.morphe.patcher.extensions.InstructionExtensions.addInstruction
 import app.morphe.patcher.extensions.InstructionExtensions.getInstruction
 import app.morphe.patcher.patch.bytecodePatch
+import app.morphe.patcher.patch.resourcePatch
 import app.morphe.util.indexOfFirstInstructionReversed
 import app.morphe.util.insertLiteralOverride
 import com.android.tools.smali.dexlib2.Opcode
 import com.android.tools.smali.dexlib2.iface.instruction.formats.Instruction35c
 import kiraio.lain.camerafv5lite.shared.Constants
+import util.ManifestUtils.addPackageQuery
 
 @Suppress("unused")
 val unlockImageResolutionPatch = bytecodePatch(
@@ -91,5 +93,19 @@ val unlockRawCapturePatch = bytecodePatch(
             buyProIndex - 3,
             true
         )
+    }
+}
+
+@Suppress("unused")
+val fixCinemaIntent = resourcePatch(
+    name = "Fix Video Recording Intent",
+    description = "Fix opening Cinema FV-5 Lite from video recording menu.",
+    default = true,
+) {
+    compatibleWith(Constants.COMPATIBILITY)
+    execute {
+        document("AndroidManifest.xml").use {
+            it.addPackageQuery("com.flavionet.android.cinema.lite")
+        }
     }
 }
