@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-dev.2",
+  "version": "1.0.0-dev.3",
   "patches": [
     {
       "name": "Disable Ads",
@@ -29,6 +29,31 @@
     {
       "name": "Enable Raw Capture",
       "description": "Force enable DNG raw capture option.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.flavionet.android.camera.lite",
+          "name": "Camera FV-5 Lite",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F9A128",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "5.4.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Fix Video Recording Intent",
+      "description": "Fix opening Cinema FV-5 Lite from video recording menu.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [

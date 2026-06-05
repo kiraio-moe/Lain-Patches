@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v1.0.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.0.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -33,7 +33,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details open>
-<summary>📦 Camera FV-5 Lite&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<summary>📦 Camera FV-5 Lite&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -44,6 +44,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Raw Capture](#enable-raw-capture) | Force enable DNG raw capture option. |  |
+| [Fix Video Recording Intent](#fix-video-recording-intent) | Fix opening Cinema FV-5 Lite from video recording menu. |  |
 | [Higher Image Resolution](#higher-image-resolution) | Unlock higher image resolutions that the device support. |  |
 
 </details>

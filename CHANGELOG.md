@@ -1,3 +1,9 @@
+## [1.0.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-06-05)
+
+### ✨ New Features
+
+* **Camera FV-5 Lite:** Add video mode intent fix patch ([6a2e35e](https://github.com/kiraio-moe/Lain-Patches/commit/6a2e35e6021cb0c742aaca410db652da20afdf54))
+
 ## [1.0.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-06-04)
 
 ### 🐛 Bug Fixes
