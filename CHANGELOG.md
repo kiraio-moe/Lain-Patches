@@ -1,3 +1,9 @@
+## [1.1.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.0.0...v1.1.0-dev.1) (2026-06-07)
+
+### ✨ New Features
+
+* **Cinema FV-5 Lite:** Add pro patches ([bbafdbb](https://github.com/kiraio-moe/Lain-Patches/commit/bbafdbbd87c412727269b502a7a3b82a7684b357))
+
 ## 1.0.0 (2026-06-05)
 
 ### 🐛 Bug Fixes

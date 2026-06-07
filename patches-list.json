@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0-dev.1",
   "patches": [
     {
       "name": "Disable Ads",
@@ -52,6 +52,31 @@
       "options": []
     },
     {
+      "name": "Fix Camera Mode Intent",
+      "description": "Fix opening Camera FV-5 Lite when entering camera mode.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.flavionet.android.cinema.lite",
+          "name": "Cinema FV-5 Lite",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F01010",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.2.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Fix Video Recording Intent",
       "description": "Fix opening Cinema FV-5 Lite from video recording menu.",
       "default": true,
@@ -92,6 +117,31 @@
           "targets": [
             {
               "version": "5.4.0",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Higher Video Resolution",
+      "description": "Unlock higher resolutions that limited by the app.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.flavionet.android.cinema.lite",
+          "name": "Cinema FV-5 Lite",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F01010",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "2.2.1",
               "isExperimental": false,
               "minSdk": null,
               "description": null

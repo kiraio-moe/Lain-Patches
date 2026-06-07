@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
+> **[v1.1.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;6 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -46,6 +46,22 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | [Enable Raw Capture](#enable-raw-capture) | Force enable DNG raw capture option. |  |
 | [Fix Video Recording Intent](#fix-video-recording-intent) | Fix opening Cinema FV-5 Lite from video recording menu. |  |
 | [Higher Image Resolution](#higher-image-resolution) | Unlock higher image resolutions that the device support. |  |
+
+</details>
+
+<details open>
+<summary>📦 Cinema FV-5 Lite&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.2.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Fix Camera Mode Intent](#fix-camera-mode-intent) | Fix opening Camera FV-5 Lite when entering camera mode. |  |
+| [Higher Video Resolution](#higher-video-resolution) | Unlock higher resolutions that limited by the app. |  |
 
 </details>
 
