@@ -11,7 +11,7 @@ object ImageResolutionFingerprint : Fingerprint(
     filters = listOf(
         string("capabilities.supportedPictureSizes"),
         string("p_buy_pro")
-    ),
+    )
 )
 
 object RawCaptureFingerprint : Fingerprint(

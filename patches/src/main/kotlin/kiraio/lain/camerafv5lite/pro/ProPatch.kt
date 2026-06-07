@@ -72,7 +72,7 @@ val unlockRawCapturePatch = bytecodePatch(
         val rawCaptureLastIndex =
             RawCaptureFingerprint.instructionMatches.last().index
 
-        // Early return to hide buy pro or it's lite version button
+        // Early return to hide buy pro, or it's lite version button
         rawCaptureMethod.addInstruction(
             rawCaptureLastIndex,
             "return-void"
