@@ -8,6 +8,6 @@ object Constants {
         name = "PixelLab",
         packageName = "com.imaginstudio.imagetools.pixellab",
         appIconColor = 0x3fa2e4,
-        targets = listOf(AppTarget(null))
+        targets = listOf(AppTarget(null), AppTarget("2.1.9"))
     )
 }
