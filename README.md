@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;6 patches total
+> **[v1.1.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -62,6 +62,16 @@ I've limited knowledge on Android RE and making this patches on my free time.
 |----------|----------------|-----------|
 | [Fix Camera Mode Intent](#fix-camera-mode-intent) | Fix opening Camera FV-5 Lite when entering camera mode. |  |
 | [Higher Video Resolution](#higher-video-resolution) | Unlock higher resolutions that limited by the app. |  |
+
+</details>
+
+<details open>
+<summary>📦 PixelLab&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlock 'Remove Ads' premium feature. |  |
 
 </details>
 

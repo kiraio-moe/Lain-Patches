@@ -1,3 +1,9 @@
+## [1.1.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2026-06-11)
+
+### ✨ New Features
+
+* **PixelLab:** Add premium patch ([f5e3bd0](https://github.com/kiraio-moe/Lain-Patches/commit/f5e3bd0bd03872ceffc1080ce793f71d7a46ae0b))
+
 ## [1.1.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.0.0...v1.1.0-dev.1) (2026-06-07)
 
 ### ✨ New Features

@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0-dev.1",
+  "version": "1.1.0-dev.2",
   "patches": [
     {
       "name": "Disable Ads",
@@ -142,6 +142,31 @@
           "targets": [
             {
               "version": "2.2.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Premium",
+      "description": "Unlock 'Remove Ads' premium feature.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.imaginstudio.imagetools.pixellab",
+          "name": "PixelLab",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#3FA2E4",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
               "isExperimental": false,
               "minSdk": null,
               "description": null
