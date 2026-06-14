@@ -26,6 +26,7 @@ dependencies {
     compileOnly(libs.gson)
     patchListGeneratorClasspath(libs.gson)
     implementation(libs.morphe.patches.library)
+//    implementation(project(":extensions:nekopoi"))
 }
 
 tasks {
