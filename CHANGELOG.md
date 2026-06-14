@@ -1,3 +1,14 @@
+## [1.1.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2026-06-14)
+
+### 🐛 Bug Fixes
+
+* **PixelLab:** Fix premium flags being overriden by HandlePurchases() ([86b278f](https://github.com/kiraio-moe/Lain-Patches/commit/86b278f2be7021627ace4dd01a32bc1c5472f53d))
+
+### ✨ New Features
+
+* **Nekopoi:** Add Disable Ads & Anti-Tamper Patch ([2e3e1d9](https://github.com/kiraio-moe/Lain-Patches/commit/2e3e1d9cc5bb752ab8baa1bc012650d6c2f4f2a4))
+* **Timestamp Camera:** Add `Disable Ads` patch ([69ad5ff](https://github.com/kiraio-moe/Lain-Patches/commit/69ad5ffd46cb8b408fb40c027fda54d291241927))
+
 ## [1.1.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2026-06-11)
 
 ### ✨ New Features

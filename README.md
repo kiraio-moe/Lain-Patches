@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
+> **[v1.1.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;11 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -29,6 +29,47 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Disable Ads](#disable-ads) | Disable banner, splash, and rewarded ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 Nekopoi&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Ads](#disable-ads) | Disable banner, splash and video player ads. |  |
+| [Disable Anti-Tamper Detection](#disable-anti-tamper-detection) | Disable Anti-Tamper detection that force quit the app. |  |
+
+</details>
+
+<details open>
+<summary>📦 Timestamp Camera Enterprise Free&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.237 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Ads](#disable-ads) | Disable banner ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 Timestamp Camera Free&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.252 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Ads](#disable-ads) | Disable banner ads. |  |
 
 </details>
 
@@ -68,6 +109,11 @@ I've limited knowledge on Android RE and making this patches on my free time.
 <details open>
 <summary>📦 PixelLab&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
+
+**🎯 Supported versions:**
+
+| 2.1.9 |
+| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|

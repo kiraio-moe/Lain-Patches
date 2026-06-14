@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0-dev.2",
+  "version": "1.1.0-dev.3",
   "patches": [
     {
       "name": "Disable Ads",
@@ -17,6 +17,109 @@
           "targets": [
             {
               "version": "9.9",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable Ads",
+      "description": "Disable banner, splash and video player ads.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.kcstream.cing",
+          "name": "Nekopoi",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FBC5D1",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable Ads",
+      "description": "Disable banner ads.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.jeyluta.timestampcamerafreeent",
+          "name": "Timestamp Camera Enterprise Free",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "1.237",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        },
+        {
+          "packageName": "com.jeyluta.timestampcamerafree",
+          "name": "Timestamp Camera Free",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "1.252",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Disable Anti-Tamper Detection",
+      "description": "Disable Anti-Tamper detection that force quit the app.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.kcstream.cing",
+          "name": "Nekopoi",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FBC5D1",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -167,6 +270,12 @@
           "targets": [
             {
               "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "2.1.9",
               "isExperimental": false,
               "minSdk": null,
               "description": null
