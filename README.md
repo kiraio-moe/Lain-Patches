@@ -15,7 +15,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 ## 🩹 Patches list
 
-<!-- PATCHES_START EXPANDED -->
+<!-- PATCHES_START -->
 > **[v1.1.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;11 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
@@ -125,9 +125,15 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 ## 📙 Contributing
 
-Thank you for considering contributing to Lain Patches.  
+Thank you for considering contributing to 𝙻𝙰!𝙽 Patches.  
 You can find the contribution guidelines [here](CONTRIBUTING.md).
 
-## 📜 License
+## 🧑‍💻 Credits
+
+- [ReVanced](https://gitlab.com/ReVanced/revanced-patches "ReVanced GitHub") — The OG's
+- [De-Vanced](https://github.com/RookieEnough/De-Vanced "De-Vanced GitHub") — For the Universal patches
+- [Hoodles](https://github.com/hoo-dles/morphe-patches "Hoodles GitHub") — For the Universal patches & code references
+
+## 📜 Licenses
 
 𝙻𝙰!𝙽 Patches are licensed under the [GNU General Public License v3.0](LICENSE).
