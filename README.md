@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.1.0-dev.4](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
+> **[v1.1.0](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
