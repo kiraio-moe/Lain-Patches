@@ -1,3 +1,12 @@
+## [1.1.0-dev.4](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0-dev.3...v1.1.0-dev.4) (2026-06-19)
+
+### ✨ New Features
+
+* **Fake GPS Location:** Add premium patch ([0c6dc6c](https://github.com/kiraio-moe/Lain-Patches/commit/0c6dc6c3fbd3e8e9a981ca774ebabf82963bdbaa))
+* **Hidden Settings:** Add Premium patch ([77170d9](https://github.com/kiraio-moe/Lain-Patches/commit/77170d95c7f717c97c0d7e9283914dd250e98921))
+* **MediBang Paint:** Add Premium & Disable Analytics patches ([befdad7](https://github.com/kiraio-moe/Lain-Patches/commit/befdad77414970e615c113cb36a61cbc834dd5a3))
+* **Nekopoi:** Add Enable Certificate Pinning patch & add app target version for 2.5.3-build01 ([0edff5f](https://github.com/kiraio-moe/Lain-Patches/commit/0edff5f515f995fe875f7b0c6752f6d051935988))
+
 ## [1.1.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0-dev.2...v1.1.0-dev.3) (2026-06-14)
 
 ### 🐛 Bug Fixes

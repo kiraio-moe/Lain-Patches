@@ -8,6 +8,6 @@ object Constants {
         name = "Nekopoi",
         packageName = "com.kcstream.cing",
         appIconColor = 0xfbc5d1,
-        targets = listOf(AppTarget(null))
+        targets = listOf(AppTarget(null), AppTarget("2.5.3-build01"))
     )
 }
