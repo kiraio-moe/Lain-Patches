@@ -48,26 +48,26 @@ object UnityAdsFingerprint : Fingerprint(
     }
 )
 
-object VideoPlayerAdsFingerprint : Fingerprint(
-//    strings = listOf("img.doodcdn.co"),
-    accessFlags = listOf(AccessFlags.PUBLIC, AccessFlags.FINAL),
-    custom = { method, _ ->
-        method.name == "shouldInterceptRequest"
-    }
-)
-
-object VideoPlayerAds2Fingerprint : Fingerprint(
-    accessFlags = listOf(AccessFlags.PUBLIC, AccessFlags.FINAL),
+object VideoAdsFingerprint : Fingerprint(
+    name = "shouldInterceptRequest",
     parameters = listOf("Landroid/webkit/WebView;", "Landroid/webkit/WebResourceRequest;"),
-    custom = { method, _ ->
-        method.name == "shouldOverrideUrlLoading"
-    }
+    returnType = "Landroid/webkit/WebResourceResponse;",
+    filters = listOf(
+        methodCall(
+            definingClass = "Landroid/webkit/WebViewClient;",
+            name = "shouldInterceptRequest"
+        )
+    )
 )
 
-object VideoPlayerAds3Fingerprint : Fingerprint(
-    accessFlags = listOf(AccessFlags.PUBLIC, AccessFlags.FINAL),
+object VideoAds2Fingerprint : Fingerprint(
+    name = "shouldInterceptRequest",
     parameters = listOf("Landroid/webkit/WebView;", "Ljava/lang/String;"),
-    custom = { method, _ ->
-        method.name == "shouldOverrideUrlLoading"
-    }
+    returnType = "Landroid/webkit/WebResourceResponse;",
+    filters = listOf(
+        methodCall(
+            definingClass = "Landroid/webkit/WebViewClient;",
+            name = "shouldInterceptRequest"
+        )
+    )
 )
