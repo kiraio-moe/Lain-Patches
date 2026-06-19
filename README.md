@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.1.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;11 patches total
+> **[v1.1.0-dev.4](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0-dev.4)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
 <details open>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -33,13 +33,19 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details open>
-<summary>📦 Nekopoi&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<summary>📦 Nekopoi&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
+
+**🎯 Supported versions:**
+
+| 2.5.3-build01 |
+| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable Ads](#disable-ads) | Disable banner, splash and video player ads. |  |
+| [Disable Ads](#disable-ads) | Disable banner & splash ads. |  |
 | [Disable Anti-Tamper Detection](#disable-anti-tamper-detection) | Disable Anti-Tamper detection that force quit the app. |  |
+| [Enable Certificate Pinning](#enable-certificate-pinning) | Allow app network traffic to be inspected. |  |
 
 </details>
 
@@ -70,6 +76,22 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Disable Ads](#disable-ads) | Disable banner ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 MediBang Paint&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 28.24 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Analytics](#disable-analytics) | Disables app tracker, Google & Firebase Analytics |  |
+| [Unlock Premium](#unlock-premium) | Unlock premium features such as No Ads, Premium Brushes, Filters & Fonts; Simultaneous Layer Operation. Server-side features is NOT included! |  |
 
 </details>
 
@@ -107,6 +129,36 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details open>
+<summary>📦 Fake GPS Location&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 113.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlock premium features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Hidden Settings&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 7.34 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlock premium features such as Disable Ads and access AI Assistant. |  |
+
+</details>
+
+<details open>
 <summary>📦 PixelLab&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -118,6 +170,19 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlock 'Remove Ads' premium feature. |  |
+
+</details>
+
+<details open>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Change package name](#change-package-name) | Appends ".morphe" to the package name by default. Changing the package name of the app can lead to unexpected issues. | • Package name<br>• Update permissions<br>• Update providers |
+| [Disable Pairip license check](#disable-pairip-license-check) | Disables Play Integrity API (pairip) client-side license check. This patch does not bypass Play Integrity attestation or pairipcore virtualization. |  |
+| [Hide app icon](#hide-app-icon) | Hides the app icon from the Android launcher. |  |
+| [Override certificate pinning](#override-certificate-pinning) | Overrides certificate pinning, allowing to inspect traffic via a proxy. |  |
 
 </details>
 
