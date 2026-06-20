@@ -16,8 +16,8 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.1.0](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;20 patches total
-<details open>
+> **[v1.2.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.2.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;22 patches total
+<details>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -32,7 +32,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Nekopoi&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
@@ -49,7 +49,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Timestamp Camera Enterprise Free&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -64,7 +64,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Timestamp Camera Free&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -79,7 +79,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 MediBang Paint&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
@@ -95,7 +95,22 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
+<summary>📦 Paletta&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.11 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Disable trial time counter. |  |
+
+</details>
+
+<details>
 <summary>📦 Camera FV-5 Lite&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
 
@@ -112,7 +127,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Cinema FV-5 Lite&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
@@ -128,7 +143,22 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
+<summary>📦 AudioRelay&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 0.26.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlock premium features. |  |
+
+</details>
+
+<details>
 <summary>📦 Fake GPS Location&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -143,7 +173,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 Hidden Settings&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -158,7 +188,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>📦 PixelLab&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -173,7 +203,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 </details>
 
-<details open>
+<details>
 <summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 

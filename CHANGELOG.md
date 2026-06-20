@@ -1,3 +1,10 @@
+## [1.2.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0...v1.2.0-dev.1) (2026-06-20)
+
+### ✨ New Features
+
+* **AudioRelay:** Add premium patch ([e5cfc42](https://github.com/kiraio-moe/Lain-Patches/commit/e5cfc422468c15eccd23719bdb1845c5216849cd))
+* **Paletta:** Add premium patch ([f92f9c3](https://github.com/kiraio-moe/Lain-Patches/commit/f92f9c316de89bd0df4e8c3b6d90d7e229b48dce))
+
 ## [1.1.0](https://github.com/kiraio-moe/Lain-Patches/compare/v1.0.0...v1.1.0) (2026-06-19)
 
 ### 🐛 Bug Fixes
