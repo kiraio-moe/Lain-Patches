@@ -16,7 +16,24 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.2.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.2.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;22 patches total
+> **[v1.2.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.2.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
+<details>
+<summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 24.1.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Course Maps Fix](#course-maps-fix) | Fix course maps not rendered by using your own Google Maps API key. | • Google Maps API Key |
+| [Login Fix](#login-fix) | Fix login issue by spoofing the installation source to Play Store. |  |
+| [Unlock Premium](#unlock-premium) | Enable premium features. |  |
+
+</details>
+
 <details>
 <summary>📦 Android Proxy Server&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -174,6 +191,21 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details>
+<summary>📦 Hermit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 31.6.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Enable premium features. |  |
+
+</details>
+
+<details>
 <summary>📦 Hidden Settings&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -204,7 +236,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
@@ -213,6 +245,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | [Disable Pairip license check](#disable-pairip-license-check) | Disables Play Integrity API (pairip) client-side license check. This patch does not bypass Play Integrity attestation or pairipcore virtualization. |  |
 | [Hide app icon](#hide-app-icon) | Hides the app icon from the Android launcher. |  |
 | [Override certificate pinning](#override-certificate-pinning) | Overrides certificate pinning, allowing to inspect traffic via a proxy. |  |
+| [Spoof Install Source](#spoof-install-source) | Spoofs package installer checks to report the configured package name as the installation source. Default is Play Store. | • Installer Package Name |
 
 </details>
 

@@ -1,3 +1,10 @@
+## [1.2.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
+
+### ✨ New Features
+
+* **Hermit:** Add premium patch ([129d44e](https://github.com/kiraio-moe/Lain-Patches/commit/129d44eee62074b75386839173e2bab62fdbb3d3))
+* **UDisc:** Add patches for UDisc ([d3629df](https://github.com/kiraio-moe/Lain-Patches/commit/d3629df87b7ae117d1763d820c01b2b96ea918c3))
+
 ## [1.2.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0...v1.2.0-dev.1) (2026-06-20)
 
 ### ✨ New Features
