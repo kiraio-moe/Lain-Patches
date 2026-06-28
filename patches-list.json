@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0-dev.2",
+  "version": "1.2.0-dev.3",
   "patches": [
     {
       "name": "Change package name",
@@ -502,6 +502,33 @@
       ]
     },
     {
+      "name": "Unlock Plus",
+      "description": "Unlock plus features such as Exclusive Themes, Custom Layout & Home Screen, Enhanced Bulk Downloader.",
+      "default": true,
+      "dependencies": [
+        "RawResourcePatch"
+      ],
+      "compatiblePackages": [
+        {
+          "packageName": "com.degenk.boorusama",
+          "name": "Boorusama (Play Store)",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#E8BF55",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "4.5.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Unlock Premium",
       "description": "Unlock premium features.",
       "default": true,
@@ -699,6 +726,64 @@
           "targets": [
             {
               "version": "24.1.2",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Pro",
+      "description": "Enable pro features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.surmin.photofancie.lite",
+          "name": "Collage Maker - PhotoFancie",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "5.8.3",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Pro",
+      "description": "Unlock pro features such as Unlimited proxy usage, Allow/disallow specific apps, Block apps in firewall and many more...",
+      "default": true,
+      "dependencies": [
+        "RawResourcePatch"
+      ],
+      "compatiblePackages": [
+        {
+          "packageName": "com.scheler.superproxy",
+          "name": "Super Proxy",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#0078B7",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "3.2.2",
               "isExperimental": false,
               "minSdk": null,
               "description": null

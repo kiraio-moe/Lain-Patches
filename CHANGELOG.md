@@ -1,3 +1,11 @@
+## [1.2.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0-dev.2...v1.2.0-dev.3) (2026-06-28)
+
+### ✨ New Features
+
+* **Boorusama:** Add plus/premium patch ([e3daee2](https://github.com/kiraio-moe/Lain-Patches/commit/e3daee2df5fb02dc3048b1be281ae9292042de93))
+* **PhotoFancie:** Add pro patch ([f80a4dd](https://github.com/kiraio-moe/Lain-Patches/commit/f80a4ddc407f28a862b1361b1b319da2c01d8070))
+* **Super Proxy:** Add pro patch ([6f4e784](https://github.com/kiraio-moe/Lain-Patches/commit/6f4e784d4c56dcfe33928352de9c0ba2f9d891ef))
+
 ## [1.2.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2026-06-24)
 
 ### ✨ New Features

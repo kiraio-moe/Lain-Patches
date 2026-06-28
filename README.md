@@ -16,7 +16,7 @@ I've limited knowledge on Android RE and making this patches on my free time.
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.2.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.2.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;27 patches total
+> **[v1.2.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.2.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;30 patches total
 <details>
 <summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -161,6 +161,21 @@ I've limited knowledge on Android RE and making this patches on my free time.
 </details>
 
 <details>
+<summary>📦 Boorusama (Play Store)&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.5.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Plus](#unlock-plus) | Unlock plus features such as Exclusive Themes, Custom Layout & Home Screen, Enhanced Bulk Downloader. |  |
+
+</details>
+
+<details>
 <summary>📦 AudioRelay&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -232,6 +247,36 @@ I've limited knowledge on Android RE and making this patches on my free time.
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlock 'Remove Ads' premium feature. |  |
+
+</details>
+
+<details>
+<summary>📦 Collage Maker - PhotoFancie&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.8.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Pro](#unlock-pro) | Enable pro features. |  |
+
+</details>
+
+<details>
+<summary>📦 Super Proxy&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 3.2.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Pro](#unlock-pro) | Unlock pro features such as Unlimited proxy usage, Allow/disallow specific apps, Block apps in firewall and many more... |  |
 
 </details>
 
