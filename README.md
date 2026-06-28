@@ -13,6 +13,19 @@ I've limited knowledge on Android RE and making this patches on my free time.
     </a>
 </div>
 
+## Request Patches
+
+I openly accept requests, but bear in mind there are rules and conditions:
+
+1. I may not be able to work on your request due to lack of knowledges, technical or RL issues.
+  - I **CAN'T** guarantee when your requests or bug report will be completed. I have limited time due to work, fatigue/illness, or just plain laziness.
+  - I will **NOT** take apps that has PairIP protection due to limited knowledge on bypassing it. **EXCEPT** it can be bypassed with patches from [hoodles](https://github.com/hoo-dles/morphe-patches) or [sjshb57](https://github.com/sjshb57/Pairip-Patches).
+  - I may **NOT** work on apps that has custom obfuscation techniques. Depends on the difficulty.
+  - I **CAN'T** restore login with Google functionalities or Micro-G integration due to technical knowledge.
+2. From now, all requests **MUST** go to [Discussions](https://github.com/kiraio-moe/Lain-Patches/discussions). Requests that has upmost vote will be on top priority. If none, early requests will be done first. Requests will be labeled according to the conditions above.
+3. Before making request, first check on existing patches (if available) on [Morphe Community Patches](https://morphe-patches.software/#apps). Unless it's broken AND the patch developers can't work on it anymore.
+4. Report bugs on [Issues](https://github.com/kiraio-moe/Lain-Patches/issues) with detailed information as possible.
+
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
