@@ -3,7 +3,7 @@ package kiraio.lain.superproxy.pro
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
 import app.morphe.patcher.patch.rawResourcePatch
-import app.morphe.patches.all.misc.hex.hexPatch
+import util.wildcardHexPatch
 
 @Suppress("unused")
 val proPatch = rawResourcePatch(
@@ -20,11 +20,11 @@ val proPatch = rawResourcePatch(
         )
     )
     dependsOn(
-        hexPatch(block = {
+        wildcardHexPatch(block = {
             val libPath = "lib/arm64-v8a/libapp.so"
 
             // Always set entitlement to true
-            "09 0D 00 54 41 70 40 B8 21 80 1C 8B 21 06 20 37" asPatternTo "09 0D 00 54 41 70 40 B8 21 80 1C 8B 1F 20 03 D5" inFile libPath
+            "2? ?? ?? ?? 21 06 ?? ?? E?" asPatternTo "?? ?? ?? ?? 1F 20 03 D5 ??" inFile libPath
         })
     )
 }
