@@ -1,3 +1,10 @@
+## [1.3.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0...v1.3.0-dev.1) (2026-07-04)
+
+### ✨ New Features
+
+* **iLovePDF:** Add premium patch ([fcf994f](https://github.com/kiraio-moe/Lain-Patches/commit/fcf994fd5d7780c0cc1a9dd6bf7da5f9a1482009))
+* **Sketchbook:** Add premium patch ([caf8612](https://github.com/kiraio-moe/Lain-Patches/commit/caf8612c62f1906d485658d1edf63870096bb5b7))
+
 ## [1.2.0](https://github.com/kiraio-moe/Lain-Patches/compare/v1.1.0...v1.2.0) (2026-06-28)
 
 ### ✨ New Features
