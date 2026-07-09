@@ -22,40 +22,7 @@ val premiumPatch = bytecodePatch(
         )
     )
     execute {
-        SetPremiumObjectFingerprint.matchAll().forEach {
-            val index = it.instructionMatches.first().index
-            val indexReg = (it.method.instructions[index] as TwoRegisterInstruction).registerA
-            it.method.addInstruction(
-                index,
-                """
-                    sget-object p$indexReg, Ljava/lang/Boolean;->TRUE:Ljava/lang/Boolean;
-                """.trimIndent()
-            )
-        }
-
         SetPremiumBooleanFingerprint.matchAll().forEach {
-            val index = it.instructionMatches.first().index
-            val indexReg = (it.method.instructions[index] as TwoRegisterInstruction).registerA
-            it.method.addInstruction(
-                index,
-                """
-                    const/4 v$indexReg, 0x1
-                """.trimIndent()
-            )
-        }
-
-        SetIsPremiumFingerprint.matchAll().forEach {
-            val index = it.instructionMatches.first().index
-            val indexReg = (it.method.instructions[index] as TwoRegisterInstruction).registerA
-            it.method.addInstruction(
-                index,
-                """
-                    const/4 v$indexReg, 0x1
-                """.trimIndent()
-            )
-        }
-
-        SetIsPremiumAltFingerprint.matchAll().forEach {
             val index = it.instructionMatches.first().index
             val indexReg = (it.method.instructions[index] as TwoRegisterInstruction).registerA
             it.method.addInstruction(
