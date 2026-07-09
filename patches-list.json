@@ -1,6 +1,37 @@
 {
-  "version": "1.3.0-dev.1",
+  "version": "1.3.0-dev.2",
   "patches": [
+    {
+      "name": "Bypass Reading Limitation",
+      "description": "Bypass 'First Time Free' read limitation for all languages. Only affect 'Standard/Deluxe' plan titles, exclusive 'Deluxe' plan titles are server-driven.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "jp.co.shueisha.mangaplus",
+          "name": "Manga Plus",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "2.4.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
     {
       "name": "Change package name",
       "description": "Appends \".morphe\" to the package name by default. Changing the package name of the app can lead to unexpected issues.",
@@ -254,6 +285,37 @@
       "options": []
     },
     {
+      "name": "Disable Region Lock",
+      "description": "Bypass restricted region contents; access it anywhere, anytime.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.getepic.Epic",
+          "name": "Epic!",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#0B96E7",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "3.141.43",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Enable Certificate Pinning",
       "description": "Allow app network traffic to be inspected.",
       "default": true,
@@ -275,6 +337,68 @@
             },
             {
               "version": "2.5.3-build01",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Deluxe Plan",
+      "description": "Enable Deluxe plan badge on settings. Bypass the 'First Time Free' read limitation only for English language on 'Standard/Deluxe' plan titles. Other languages aren't affected.",
+      "default": false,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "jp.co.shueisha.mangaplus",
+          "name": "Manga Plus",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "2.4.1",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Epic Family",
+      "description": "Unlock access to all books, videos and audiobooks for lifetime.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.getepic.Epic",
+          "name": "Epic!",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#0B96E7",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "3.141.43",
               "isExperimental": false,
               "minSdk": null,
               "description": null

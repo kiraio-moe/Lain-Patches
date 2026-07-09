@@ -29,7 +29,23 @@ I openly accept requests, but bear in mind there are rules and conditions:
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.3.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;32 patches total
+> **[v1.3.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;36 patches total
+<details>
+<summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.4.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Bypass Reading Limitation](#bypass-reading-limitation) | Bypass 'First Time Free' read limitation for all languages. Only affect 'Standard/Deluxe' plan titles, exclusive 'Deluxe' plan titles are server-driven. |  |
+| [Enable Deluxe Plan](#enable-deluxe-plan) | Enable Deluxe plan badge on settings. Bypass the 'First Time Free' read limitation only for English language on 'Standard/Deluxe' plan titles. Other languages aren't affected. |  |
+
+</details>
+
 <details>
 <summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>
@@ -122,6 +138,22 @@ I openly accept requests, but bear in mind there are rules and conditions:
 |----------|----------------|-----------|
 | [Disable Analytics](#disable-analytics) | Disables app tracker, Google & Firebase Analytics |  |
 | [Unlock Premium](#unlock-premium) | Unlock premium features such as No Ads, Premium Brushes, Filters & Fonts; Simultaneous Layer Operation. Server-side features is NOT included! |  |
+
+</details>
+
+<details>
+<summary>📦 Epic!&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 3.141.43 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable Region Lock](#disable-region-lock) | Bypass restricted region contents; access it anywhere, anytime. |  |
+| [Enable Epic Family](#enable-epic-family) | Unlock access to all books, videos and audiobooks for lifetime. |  |
 
 </details>
 

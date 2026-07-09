@@ -1,3 +1,14 @@
+## [1.3.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0-dev.1...v1.3.0-dev.2) (2026-07-09)
+
+### 🐛 Bug Fixes
+
+* **iLovePDF:** Remove adding unnecessary instructions to grant premium ([6e97299](https://github.com/kiraio-moe/Lain-Patches/commit/6e972994f9631e46869029eb43e96f2cc206dfac))
+
+### ✨ New Features
+
+* **Epic!:** Add Epic Family subscription and Bypass Region Lock patches ([e2a3929](https://github.com/kiraio-moe/Lain-Patches/commit/e2a39295087f732e491c188e70d022b0a9fb5a3e))
+* **Manga Plus:** Add bypass read limitation and deluxe plan patches ([d824c2c](https://github.com/kiraio-moe/Lain-Patches/commit/d824c2c27d229b3fc62ef30ab15e13ae27daea38))
+
 ## [1.3.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0...v1.3.0-dev.1) (2026-07-04)
 
 ### ✨ New Features
