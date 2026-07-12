@@ -1,3 +1,12 @@
+## [1.3.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0-dev.2...v1.3.0-dev.3) (2026-07-12)
+
+### ✨ New Features
+
+* **Atomic:** Add PRO+ premium patch ([775fbd5](https://github.com/kiraio-moe/Lain-Patches/commit/775fbd5d922a857c40fcf86d50b46b9da682add8))
+* **ChatBoost:** Add premium patch ([12a966d](https://github.com/kiraio-moe/Lain-Patches/commit/12a966d9a32bb194281e1aba40dda03f9bcfd719))
+* **Keymate:** Add premium patch ([f6b4fe5](https://github.com/kiraio-moe/Lain-Patches/commit/f6b4fe57f78b613497e74a3309ec93d4a19750e2))
+* **Pixel Studio:** Add pro patch ([bb741bb](https://github.com/kiraio-moe/Lain-Patches/commit/bb741bb8af4bad3cdc43db4c7244843db22aec0f))
+
 ## [1.3.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0-dev.1...v1.3.0-dev.2) (2026-07-09)
 
 ### 🐛 Bug Fixes

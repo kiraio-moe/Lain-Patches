@@ -29,7 +29,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.3.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;36 patches total
+> **[v1.3.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;40 patches total
 <details>
 <summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -158,6 +158,36 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
+<summary>📦 Atomic&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.7.0m |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable PRO+](#enable-pro) | Unlock all PRO+ features. |  |
+
+</details>
+
+<details>
+<summary>📦 ChatBoost&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 3.24.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock all premium benefits. |  |
+
+</details>
+
+<details>
 <summary>📦 iLovePDF&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -169,6 +199,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Premium](#enable-premium) | Unlock premium features such as Unlimited access to PDF tools, Enable Cloud Storage; Split, Merge, Compress documents, and more. Google login or Google Drive storage is broken, need MicroG integration patch. |  |
+
+</details>
+
+<details>
+<summary>📦 Keymate&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 1.2.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock all features in Pro. |  |
 
 </details>
 
@@ -199,6 +244,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Premium](#enable-premium) | Unlock premium features such as Advanced Color Tools, Clipping Masks & Alpha Masks, Manage layers with Groups, Import & customize brushes, and more... |  |
+
+</details>
+
+<details>
+<summary>📦 Pixel Studio&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.51 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Pro](#enable-pro) | Unlock all pro features. |  |
 
 </details>
 
