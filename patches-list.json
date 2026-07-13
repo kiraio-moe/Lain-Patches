@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0-dev.1",
   "patches": [
     {
       "name": "Bypass Reading Limitation",
@@ -551,6 +551,130 @@
             },
             {
               "version": "4.11",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Premium",
+      "description": "Unlock unlimited use of ISO Burner, disable ads and disable coins system.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mixapplications.rufus",
+          "name": "DROFUS",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F8F8F8",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "10.2.3",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Premium",
+      "description": "Unlock unlimited use of all tools, disable ads and disable coins system.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mixapplications.ultimateusb",
+          "name": "Ultimate USB",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F8F8F8",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "10.2.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Premium",
+      "description": "Unlock unlimited use of Disk Management & Gaming Tools, disable ads and disable coins system.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mixapplications.usbtools",
+          "name": "USB TOOLS",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F8F8F8",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "10.2.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Premium",
+      "description": "Unlock unlimited use of Bootable USB drive creator, disable ads and disable coins system.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mixapplications.ventoy_app",
+          "name": "Ventoy",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#F8F8F8",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "10.2.3 (1.1.16)",
               "isExperimental": false,
               "minSdk": null,
               "description": null

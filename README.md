@@ -29,7 +29,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.3.0](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;40 patches total
+> **[v1.4.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;44 patches total
 <details>
 <summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -229,6 +229,66 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Premium](#enable-premium) | Disable trial time counter. |  |
+
+</details>
+
+<details>
+<summary>📦 DROFUS&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of ISO Burner, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 Ultimate USB&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.4 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of all tools, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 USB TOOLS&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.4 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of Disk Management & Gaming Tools, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 Ventoy&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.3 (1.1.16) |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of Bootable USB drive creator, disable ads and disable coins system. |  |
 
 </details>
 

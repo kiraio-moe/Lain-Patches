@@ -1,3 +1,10 @@
+## [1.4.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0...v1.4.0-dev.1) (2026-07-13)
+
+### ✨ New Features
+
+* **DROFUS:** Add premium patch ([2a8254e](https://github.com/kiraio-moe/Lain-Patches/commit/2a8254ede8c7e77b14eba520fe21cac212234506))
+* Moving DROFUS patch into group of MixApplications patches ([52e7956](https://github.com/kiraio-moe/Lain-Patches/commit/52e79568efb153c9979db2f2de848e2978741c41))
+
 ## [1.3.0](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0...v1.3.0) (2026-07-12)
 
 ### 🐛 Bug Fixes
