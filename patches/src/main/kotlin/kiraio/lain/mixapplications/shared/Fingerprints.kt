@@ -1,4 +1,4 @@
-package kiraio.lain.drofus.premium
+package kiraio.lain.mixapplications.shared
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.methodCall
