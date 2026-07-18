@@ -29,7 +29,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.4.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;44 patches total
+> **[v1.4.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;46 patches total
 <details>
 <summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -154,6 +154,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 |----------|----------------|-----------|
 | [Disable Region Lock](#disable-region-lock) | Bypass restricted region contents; access it anywhere, anytime. |  |
 | [Enable Epic Family](#enable-epic-family) | Unlock access to all books, videos and audiobooks for lifetime. |  |
+
+</details>
+
+<details>
+<summary>📦 Kapi Cam&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.32.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Kapi Pro](#enable-kapi-pro) | Unlock all features of Kapi Pro lifetime membership. |  |
 
 </details>
 
@@ -427,6 +442,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlock premium features such as Disable Ads and access AI Assistant. |  |
+
+</details>
+
+<details>
+<summary>📦 Key Mapper&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.2.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Enable Floating Buttons and Assistant Trigger features. |  |
 
 </details>
 

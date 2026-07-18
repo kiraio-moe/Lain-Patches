@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0-dev.1",
+  "version": "1.4.0-dev.2",
   "patches": [
     {
       "name": "Bypass Reading Limitation",
@@ -399,6 +399,37 @@
             },
             {
               "version": "3.141.43",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Enable Kapi Pro",
+      "description": "Unlock all features of Kapi Pro lifetime membership.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.sensemobile.action",
+          "name": "Kapi Cam",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#C9B44D",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "4.32.1",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1066,6 +1097,37 @@
           "targets": [
             {
               "version": "7.34",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Premium",
+      "description": "Enable Floating Buttons and Assistant Trigger features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "io.github.sds100.keymapper",
+          "name": "Key Mapper",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FFFFFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "4.2.1",
               "isExperimental": false,
               "minSdk": null,
               "description": null

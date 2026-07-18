@@ -1,3 +1,10 @@
+## [1.4.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-07-18)
+
+### ✨ New Features
+
+* **Kapi Cam:** Add pro patch ([a3ef62c](https://github.com/kiraio-moe/Lain-Patches/commit/a3ef62cb0f69e94951e0058c38f781757bb3aad7))
+* **Key Mapper:** Add premium patch ([c0a051d](https://github.com/kiraio-moe/Lain-Patches/commit/c0a051d304dcf73f8fe09d35c10be23b81d644f9))
+
 ## [1.4.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0...v1.4.0-dev.1) (2026-07-13)
 
 ### ✨ New Features
