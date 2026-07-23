@@ -4,7 +4,7 @@
     <b>Zenify your apps!</b>
 </div>
 
-Morphe patches for apps that I personally use. Please be considerate when requesting a patch.
+Morphe patches for apps that I personally use and peoples request. Please be considerate when requesting a patch.
 I've limited knowledge on Android RE and making this patches on my free time.
 
 <div align="center">
@@ -17,14 +17,17 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 I openly accept requests, but bear in mind there are rules and conditions:
 
-1. I may not be able to work on your request due to lack of knowledges, technical or RL issues.
-  - I **CAN'T** guarantee when your requests or bug report will be completed. I have limited time due to work, fatigue/illness, or just plain laziness.
-  - I will **NOT** take apps that has PairIP protection due to limited knowledge on bypassing it. **EXCEPT** it can be bypassed with patches from [hoodles](https://github.com/hoo-dles/morphe-patches) or [sjshb57](https://github.com/sjshb57/Pairip-Patches).
-  - I may **NOT** work on apps that has custom obfuscation techniques. Depends on the difficulty.
-  - I **CAN'T** restore login with Google functionalities or Micro-G integration due to technical knowledge.
-2. From now, all requests **MUST** go to [Discussions](https://github.com/kiraio-moe/Lain-Patches/discussions). Requests that has upmost vote will be on top priority. If none, early requests will be done first. Requests will be labeled according to the conditions above.
-3. Before making request, first check on existing patches (if available) on [Morphe Community Patches](https://morphe-patches.software/#apps). Unless it's broken AND the patch developers can't work on it anymore.
-4. Report bugs on [Issues](https://github.com/kiraio-moe/Lain-Patches/issues) with detailed information as possible.
+1. I may not be able to work on your request due to lack of knowledge, technical or real life issues.
+    - I **CAN'T** guarantee when your requests or bug report will be completed. I have limited time due to work, fatigue/illness, or just plain laziness.
+    - I will **NOT** take apps that has PairIP protection due to limited knowledge on bypassing it. **EXCEPT** it can be bypassed with patches from [hoodles](https://github.com/hoo-dles/morphe-patches) or [sjshb57](https://github.com/sjshb57/Pairip-Patches).
+    - I may **NOT** work on apps that has custom obfuscation techniques. Depends on the difficulty.
+    - I may **NOT** work on apps that I have little to no interest in it.
+    - I **CAN'T** restore login with Google functionalities or Micro-G integration due to technical knowledge.
+2. All requests **MUST** go to [Discussions](https://github.com/kiraio-moe/Lain-Patches/discussions). Requests that has upmost vote will be on top priority. If none, early requests will be done first. Requests will be labeled according to the conditions above.
+3. Before making request, first check on existing patches on [Morphe Community Patches](https://morphe-patches.software/#apps).
+4. I may take over patches if it's  broken **AND** the original patch developers can't work on it anymore.
+5. Creative and Educational apps would be on top priority.
+6. Report bugs on [Issues](https://github.com/kiraio-moe/Lain-Patches/issues) with detailed information as possible.
 
 ## 🩹 Patches list
 
@@ -528,9 +531,11 @@ You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ## 🧑‍💻 Credits
 
+- [Morphe](https://github.com/MorpheApp "Morphe GitHub") — Who started it all
 - [ReVanced](https://gitlab.com/ReVanced/revanced-patches "ReVanced GitHub") — The OG's
-- [De-Vanced](https://github.com/RookieEnough/De-Vanced "De-Vanced GitHub") — For the Universal patches
 - [Hoodles](https://github.com/hoo-dles/morphe-patches "Hoodles GitHub") — For the Universal patches & code references
+- [De-Vanced](https://github.com/RookieEnough/De-Vanced "De-Vanced GitHub") — For the Universal patches
+- [xob0t](https://github.com/xob0t/morphe-patches "xob0t GitHub") — For the Universal patches
 
 ## 📜 Licenses
 

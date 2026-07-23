@@ -1,7 +1,7 @@
 name: ⭐ Feature request
 description: Create a detailed request for a new feature.
 title: "feat: "
-labels: ["Feature request"]
+labels: ["new"]
 body:
   - type: markdown
     attributes:
