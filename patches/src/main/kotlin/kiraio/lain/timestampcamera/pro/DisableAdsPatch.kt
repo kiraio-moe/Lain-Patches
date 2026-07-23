@@ -9,7 +9,7 @@ import app.morphe.util.returnEarly
 @Suppress("unused")
 val disableAdsPatch = bytecodePatch(
     name = "Disable Ads",
-    description = "Disable banner ads.",
+    description = "Disable banner ads. NOTICE: Use alongside the universal 'Change Google Maps API Key' patch to fix maps rendering issue.",
     default = true
 ) {
     compatibleWith(
