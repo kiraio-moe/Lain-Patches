@@ -32,7 +32,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.4.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;46 patches total
+> **[v1.4.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;46 patches total
 <details>
 <summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -46,23 +46,6 @@ I openly accept requests, but bear in mind there are rules and conditions:
 |----------|----------------|-----------|
 | [Bypass Reading Limitation](#bypass-reading-limitation) | Bypass 'First Time Free' read limitation for all languages. Only affect 'Standard/Deluxe' plan titles, exclusive 'Deluxe' plan titles are server-driven. |  |
 | [Enable Deluxe Plan](#enable-deluxe-plan) | Enable Deluxe plan badge on settings. Bypass the 'First Time Free' read limitation only for English language on 'Standard/Deluxe' plan titles. Other languages aren't affected. |  |
-
-</details>
-
-<details>
-<summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 24.1.2 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Course Maps Fix](#course-maps-fix) | Fix course maps not rendered by using your own Google Maps API key. | • Google Maps API Key |
-| [Login Fix](#login-fix) | Fix login issue by spoofing the installation source to Play Store. |  |
-| [Unlock Premium](#unlock-premium) | Enable premium features. |  |
 
 </details>
 
@@ -109,7 +92,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable Ads](#disable-ads) | Disable banner ads. |  |
+| [Disable Ads](#disable-ads) | Disable banner ads. NOTICE: Use alongside the universal 'Change Google Maps API Key' patch to fix maps rendering issue. |  |
 
 </details>
 
@@ -124,7 +107,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable Ads](#disable-ads) | Disable banner ads. |  |
+| [Disable Ads](#disable-ads) | Disable banner ads. NOTICE: Use alongside the universal 'Change Google Maps API Key' patch to fix maps rendering issue. |  |
 
 </details>
 
@@ -311,6 +294,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
+<summary>📦 pixiv&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.189.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock pixiv premium features such as Search by Popularity, Hide Ads & Tags and see Browsing History. |  |
+
+</details>
+
+<details>
 <summary>📦 Sketchbook&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -479,6 +477,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
+<summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 24.1.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Enable UDisc premium features. NOTICE: Use alongside the universal 'Spoof Install Source' patch to fix the login issue and 'Change Google Maps API Key' patch to fix the maps not rendering. |  |
+
+</details>
+
+<details>
 <summary>📦 Collage Maker - PhotoFancie&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -509,11 +522,12 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;6 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
+| [Change Google Maps API Key](#change-google-maps-api-key) | Fix Google Maps not rendered on the application because of different app signature. | • Google Maps API Key |
 | [Change package name](#change-package-name) | Appends ".morphe" to the package name by default. Changing the package name of the app can lead to unexpected issues. | • Package name<br>• Update permissions<br>• Update providers |
 | [Disable Pairip license check](#disable-pairip-license-check) | Disables Play Integrity API (pairip) client-side license check. This patch does not bypass Play Integrity attestation or pairipcore virtualization. |  |
 | [Hide app icon](#hide-app-icon) | Hides the app icon from the Android launcher. |  |

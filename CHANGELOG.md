@@ -1,3 +1,9 @@
+## [1.4.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.4.0-dev.2...v1.4.0-dev.3) (2026-08-20)
+
+### ✨ New Features
+
+* **pixiv:** Add premium patch ([9d45d7a](https://github.com/kiraio-moe/Lain-Patches/commit/9d45d7a5d65ef50a307b08ef23cd5d9217ca8db0))
+
 ## [1.4.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-07-18)
 
 ### ✨ New Features
