@@ -1,3 +1,23 @@
+## [1.4.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/compare/v1.4.0-dev.2...v1.4.0-dev.3) (2026-08-20)
+
+### ✨ New Features
+
+* **pixiv:** Add premium patch ([9d45d7a](https://github.com/kiraio-moe/Lain-Patches/commit/9d45d7a5d65ef50a307b08ef23cd5d9217ca8db0))
+
+## [1.4.0-dev.2](https://github.com/kiraio-moe/Lain-Patches/compare/v1.4.0-dev.1...v1.4.0-dev.2) (2026-07-18)
+
+### ✨ New Features
+
+* **Kapi Cam:** Add pro patch ([a3ef62c](https://github.com/kiraio-moe/Lain-Patches/commit/a3ef62cb0f69e94951e0058c38f781757bb3aad7))
+* **Key Mapper:** Add premium patch ([c0a051d](https://github.com/kiraio-moe/Lain-Patches/commit/c0a051d304dcf73f8fe09d35c10be23b81d644f9))
+
+## [1.4.0-dev.1](https://github.com/kiraio-moe/Lain-Patches/compare/v1.3.0...v1.4.0-dev.1) (2026-07-13)
+
+### ✨ New Features
+
+* **DROFUS:** Add premium patch ([2a8254e](https://github.com/kiraio-moe/Lain-Patches/commit/2a8254ede8c7e77b14eba520fe21cac212234506))
+* Moving DROFUS patch into group of MixApplications patches ([52e7956](https://github.com/kiraio-moe/Lain-Patches/commit/52e79568efb153c9979db2f2de848e2978741c41))
+
 ## [1.3.0](https://github.com/kiraio-moe/Lain-Patches/compare/v1.2.0...v1.3.0) (2026-07-12)
 
 ### 🐛 Bug Fixes

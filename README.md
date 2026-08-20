@@ -4,7 +4,7 @@
     <b>Zenify your apps!</b>
 </div>
 
-Morphe patches for apps that I personally use. Please be considerate when requesting a patch.
+Morphe patches for apps that I personally use and peoples request. Please be considerate when requesting a patch.
 I've limited knowledge on Android RE and making this patches on my free time.
 
 <div align="center">
@@ -17,19 +17,22 @@ I've limited knowledge on Android RE and making this patches on my free time.
 
 I openly accept requests, but bear in mind there are rules and conditions:
 
-1. I may not be able to work on your request due to lack of knowledges, technical or RL issues.
-  - I **CAN'T** guarantee when your requests or bug report will be completed. I have limited time due to work, fatigue/illness, or just plain laziness.
-  - I will **NOT** take apps that has PairIP protection due to limited knowledge on bypassing it. **EXCEPT** it can be bypassed with patches from [hoodles](https://github.com/hoo-dles/morphe-patches) or [sjshb57](https://github.com/sjshb57/Pairip-Patches).
-  - I may **NOT** work on apps that has custom obfuscation techniques. Depends on the difficulty.
-  - I **CAN'T** restore login with Google functionalities or Micro-G integration due to technical knowledge.
-2. From now, all requests **MUST** go to [Discussions](https://github.com/kiraio-moe/Lain-Patches/discussions). Requests that has upmost vote will be on top priority. If none, early requests will be done first. Requests will be labeled according to the conditions above.
-3. Before making request, first check on existing patches (if available) on [Morphe Community Patches](https://morphe-patches.software/#apps). Unless it's broken AND the patch developers can't work on it anymore.
-4. Report bugs on [Issues](https://github.com/kiraio-moe/Lain-Patches/issues) with detailed information as possible.
+1. I may not be able to work on your request due to lack of knowledge, technical or real life issues.
+    - I **CAN'T** guarantee when your requests or bug report will be completed. I have limited time due to work, fatigue/illness, or just plain laziness.
+    - I will **NOT** take apps that has PairIP protection due to limited knowledge on bypassing it. **EXCEPT** it can be bypassed with patches from [hoodles](https://github.com/hoo-dles/morphe-patches) or [sjshb57](https://github.com/sjshb57/Pairip-Patches).
+    - I may **NOT** work on apps that has custom obfuscation techniques. Depends on the difficulty.
+    - I may **NOT** work on apps that I have little to no interest in it.
+    - I **CAN'T** restore login with Google functionalities or Micro-G integration due to technical knowledge.
+2. All requests **MUST** go to [Discussions](https://github.com/kiraio-moe/Lain-Patches/discussions). Requests that has upmost vote will be on top priority. If none, early requests will be done first. Requests will be labeled according to the conditions above.
+3. Before making request, first check on existing patches on [Morphe Community Patches](https://morphe-patches.software/#apps).
+4. I may take over patches if it's  broken **AND** the original patch developers can't work on it anymore.
+5. Creative and Educational apps would be on top priority.
+6. Report bugs on [Issues](https://github.com/kiraio-moe/Lain-Patches/issues) with detailed information as possible.
 
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
-> **[v1.3.0](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;40 patches total
+> **[v1.4.0-dev.3](https://github.com/kiraio-moe/Lain-Patches/releases/tag/v1.4.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;46 patches total
 <details>
 <summary>📦 Manga Plus&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -43,23 +46,6 @@ I openly accept requests, but bear in mind there are rules and conditions:
 |----------|----------------|-----------|
 | [Bypass Reading Limitation](#bypass-reading-limitation) | Bypass 'First Time Free' read limitation for all languages. Only affect 'Standard/Deluxe' plan titles, exclusive 'Deluxe' plan titles are server-driven. |  |
 | [Enable Deluxe Plan](#enable-deluxe-plan) | Enable Deluxe plan badge on settings. Bypass the 'First Time Free' read limitation only for English language on 'Standard/Deluxe' plan titles. Other languages aren't affected. |  |
-
-</details>
-
-<details>
-<summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 24.1.2 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Course Maps Fix](#course-maps-fix) | Fix course maps not rendered by using your own Google Maps API key. | • Google Maps API Key |
-| [Login Fix](#login-fix) | Fix login issue by spoofing the installation source to Play Store. |  |
-| [Unlock Premium](#unlock-premium) | Enable premium features. |  |
 
 </details>
 
@@ -106,7 +92,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable Ads](#disable-ads) | Disable banner ads. |  |
+| [Disable Ads](#disable-ads) | Disable banner ads. NOTICE: Use alongside the universal 'Change Google Maps API Key' patch to fix maps rendering issue. |  |
 
 </details>
 
@@ -121,7 +107,7 @@ I openly accept requests, but bear in mind there are rules and conditions:
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Disable Ads](#disable-ads) | Disable banner ads. |  |
+| [Disable Ads](#disable-ads) | Disable banner ads. NOTICE: Use alongside the universal 'Change Google Maps API Key' patch to fix maps rendering issue. |  |
 
 </details>
 
@@ -154,6 +140,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 |----------|----------------|-----------|
 | [Disable Region Lock](#disable-region-lock) | Bypass restricted region contents; access it anywhere, anytime. |  |
 | [Enable Epic Family](#enable-epic-family) | Unlock access to all books, videos and audiobooks for lifetime. |  |
+
+</details>
+
+<details>
+<summary>📦 Kapi Cam&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.32.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Kapi Pro](#enable-kapi-pro) | Unlock all features of Kapi Pro lifetime membership. |  |
 
 </details>
 
@@ -229,6 +230,81 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Premium](#enable-premium) | Disable trial time counter. |  |
+
+</details>
+
+<details>
+<summary>📦 DROFUS&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of ISO Burner, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 Ultimate USB&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.4 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of all tools, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 USB TOOLS&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.4 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of Disk Management & Gaming Tools, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 Ventoy&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 10.2.3 (1.1.16) |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock unlimited use of Bootable USB drive creator, disable ads and disable coins system. |  |
+
+</details>
+
+<details>
+<summary>📦 pixiv&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 6.189.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Enable Premium](#enable-premium) | Unlock pixiv premium features such as Search by Popularity, Hide Ads & Tags and see Browsing History. |  |
 
 </details>
 
@@ -371,6 +447,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
+<summary>📦 Key Mapper&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.2.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Enable Floating Buttons and Assistant Trigger features. |  |
+
+</details>
+
+<details>
 <summary>📦 PixelLab&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
@@ -382,6 +473,21 @@ I openly accept requests, but bear in mind there are rules and conditions:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Unlock Premium](#unlock-premium) | Unlock 'Remove Ads' premium feature. |  |
+
+</details>
+
+<details>
+<summary>📦 UDisc&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 24.1.2 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Enable UDisc premium features. NOTICE: Use alongside the universal 'Spoof Install Source' patch to fix the login issue and 'Change Google Maps API Key' patch to fix the maps not rendering. |  |
 
 </details>
 
@@ -416,11 +522,12 @@ I openly accept requests, but bear in mind there are rules and conditions:
 </details>
 
 <details>
-<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;5 patches</summary>
+<summary>🌐 Universal&nbsp;&nbsp;•&nbsp;&nbsp;6 patches</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
+| [Change Google Maps API Key](#change-google-maps-api-key) | Fix Google Maps not rendered on the application because of different app signature. | • Google Maps API Key |
 | [Change package name](#change-package-name) | Appends ".morphe" to the package name by default. Changing the package name of the app can lead to unexpected issues. | • Package name<br>• Update permissions<br>• Update providers |
 | [Disable Pairip license check](#disable-pairip-license-check) | Disables Play Integrity API (pairip) client-side license check. This patch does not bypass Play Integrity attestation or pairipcore virtualization. |  |
 | [Hide app icon](#hide-app-icon) | Hides the app icon from the Android launcher. |  |
@@ -438,9 +545,11 @@ You can find the contribution guidelines [here](CONTRIBUTING.md).
 
 ## 🧑‍💻 Credits
 
+- [Morphe](https://github.com/MorpheApp "Morphe GitHub") — Who started it all
 - [ReVanced](https://gitlab.com/ReVanced/revanced-patches "ReVanced GitHub") — The OG's
-- [De-Vanced](https://github.com/RookieEnough/De-Vanced "De-Vanced GitHub") — For the Universal patches
 - [Hoodles](https://github.com/hoo-dles/morphe-patches "Hoodles GitHub") — For the Universal patches & code references
+- [De-Vanced](https://github.com/RookieEnough/De-Vanced "De-Vanced GitHub") — For the Universal patches
+- [xob0t](https://github.com/xob0t/morphe-patches "xob0t GitHub") — For the Universal patches
 
 ## 📜 Licenses
 
